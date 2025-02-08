@@ -4,7 +4,7 @@
 ### positionnez vous dans le repertoire src puis : 
 ### Compilez et exécutez le serveur :
 
-`rustc server.rs -o server
+`rustc server.rs -o server    <br> 
 ./server`
 
 ![terminal server](server.png)
@@ -12,7 +12,7 @@
 
 ### Compilez et exécutez le client dans un autre terminal :
 
-`rustc client.rs -o client 
+`rustc client.rs -o client    <br> 
 ./client`
 
 ![terminal client](client.png)
